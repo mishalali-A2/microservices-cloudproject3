@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: ghcr.io/ayaanm930/microservices-cloudproject3/frontend:a7b82301b0e71fabaf4ebbd6c4d8e43d63d7dd6b
+        image: ghcr.io/ayaanm930/microservices-cloudproject3/frontend:61c579a598165d268bbb7b7ae70db39c39934061
         ports:
         - containerPort: 80
 ---
